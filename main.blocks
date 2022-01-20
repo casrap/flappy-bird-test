@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="EXGZe.jGi_U{o-2UlCoR">obstakel</variable></variables><block type="pxt-on-start" id=":K3aNAG:^1j[ViLpEH:," x="0" y="0"/><block type="device_button_event" id="vxg](NyST%K:a(K--I,:" x="227" y="149"><field name="NAME">Button.A</field></block><block type="device_forever" id="lz7Not*NCluKLEHgS^;c" x="159" y="223"><statement name="HANDLER"><block type="device_show_leds" id="{?Cag*N)w^@xrV%t}UWz"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="EXGZe.jGi_U{o-2UlCoR">obstakel</variable></variables><block type="device_forever" id="lz7Not*NCluKLEHgS^;c" x="133" y="-74"><statement name="HANDLER"><block type="device_show_leds" id="{?Cag*N)w^@xrV%t}UWz"><field name="LEDS">`
         . . . . # 
         . . . . . 
         . . . . # 
@@ -94,4 +94,34 @@
         . # . . # 
         . # . . . 
         . # . . #
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="H_~bT];Eimf}HS1@fdxT"><value name="pause"><shadow type="timePicker" id="O}Mmi:fovOm$Wb=F.b_C"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="igLX2#YlcjHX=]/GEafA"><field name="LEDS">`
+        # . . # . 
+        . . . # . 
+        # . . # . 
+        # . . . . 
+        # . . # .
+        `</field><next><block type="device_pause" id="3@vP*L~|buY0BhNU~`OT"><value name="pause"><shadow type="timePicker" id="x^5dUt9aX7^Ca~N-m;Rn"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="=9#.O2%C4{;$.I~$L08p"><field name="LEDS">`
+        . . # . # 
+        . . # . # 
+        . . # . . 
+        . . . . # 
+        . . # . #
+        `</field><next><block type="device_pause" id="qs*_wa9K3tSnf*[ui#;V"><value name="pause"><shadow type="timePicker" id="_12gl)|uSm-zx;qR-;:k"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="wIJ]e,jC6fSaj8kY_$bh"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # . . . 
+        . . . # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="Pa0}^_(aQ+38b8]]A$!Y"><value name="pause"><shadow type="timePicker" id="zJ=M*F6[KJY?233B_83y"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="y?M/{Y2E97y[1?EjTq!}"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . . . # 
+        . . # . . 
+        # . # . #
+        `</field><next><block type="device_pause" id="el!%wMpdDhV^yW(e(%b["><value name="pause"><shadow type="timePicker" id="6uWKL{c1[NqBC9}GnO],"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="VPla_FvM8A%Ga/$m;BHz"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . # . 
+        . # . . . 
+        . # . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id=":K3aNAG:^1j[ViLpEH:," x="0" y="0"/><block type="device_button_event" id="vxg](NyST%K:a(K--I,:" x="227" y="149"><field name="NAME">Button.A</field></block></xml>

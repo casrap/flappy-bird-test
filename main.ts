@@ -169,4 +169,81 @@ basic.forever(function () {
         . # . . .
         . # . # .
         `)
+    basic.pause(200)
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . . . # .
+        . # . . .
+        . # . # .
+        `)
+    basic.pause(200)
+    basic.showLeds(`
+        # . # . .
+        # . # . #
+        . . # . #
+        # . . . #
+        # . # . #
+        `)
+    basic.pause(150)
+    basic.showLeds(`
+        . # . . .
+        . # . # .
+        . # . # .
+        . . . # .
+        . # . # .
+        `)
+    basic.pause(100)
+    basic.showLeds(`
+        # . . . #
+        # . # . #
+        # . # . #
+        . . # . .
+        # . # . #
+        `)
+    basic.pause(75)
+    basic.showLeds(`
+        . . . # .
+        . # . # .
+        . # . # .
+        . # . . .
+        . # . # .
+        `)
+    basic.pause(50)
+    basic.showLeds(`
+        . . # . .
+        # . # . #
+        # . # . #
+        # . . . #
+        # . # . #
+        `)
+    basic.pause(25)
+    basic.showLeds(`
+        . # . . .
+        . # . # .
+        . # . # .
+        . . . # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        # . . . #
+        # . # . #
+        # . # . #
+        . . # . #
+        # . # . .
+        `)
+    basic.showLeds(`
+        . . . # .
+        . # . # .
+        . # . # .
+        . # . # .
+        . # . . .
+        `)
+    basic.showLeds(`
+        . . # . #
+        # . # . #
+        # . # . #
+        # . # . #
+        # . . . #
+        `)
 })
